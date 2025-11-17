@@ -1,0 +1,11 @@
+# .gitignore 파일 생성
+# 모든 파일 무시
+*
+# docs 폴더와 그 내용은 포함
+!docs/
+!docs/**
+# guides 폴더와 그 내용은 포함
+!guides/
+!guides/**
+# .gitignore 자체는 포함
+!.gitignore
